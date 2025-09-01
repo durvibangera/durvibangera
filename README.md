@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-[cite_start]I am a third-year Computer Science and Engineering (Data Science) student from Mumbai, India[cite: 10, 13]. [cite_start]As an AI/ML enthusiast, I have hands-on experience in building machine learning models, developing NLP pipelines, and creating AI-powered applications[cite: 6, 7]. [cite_start]I'm passionate about leveraging data-driven solutions to solve real-world problems[cite: 8].
+I am a third-year Computer Science and Engineering (Data Science) student from Mumbai, India. As an AI/ML enthusiast, I have hands-on experience in building machine learning models, developing NLP pipelines, and creating AI-powered applications. I'm passionate about leveraging data-driven solutions to solve real-world problems.
 
 ---
 
@@ -64,7 +64,6 @@
 
 ---
 
-###  PAC-MAN Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/durvibangera/durvibangera/output/pacman-contribution-graph-dark.svg">
