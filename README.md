@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-I am a third-year Computer Science and Engineering (Data Science) student from Mumbai, India. As an AI/ML enthusiast, I have hands-on experience in building machine learning models, developing NLP pipelines, and creating AI-powered applications. I'm passionate about leveraging data-driven solutions to solve real-world problems.
+I am a third-year Computer Science and Engineering (Data Science) student from Mumbai, India. As an AI/ML enthusiast, I have hands-on experience in building machine learning models, developing NLP pipelines, and creating AI-powered applications. I'm passionate about leveraging data-driven solutions to solve real-world problems and grinding leetcode.
 
 ---
 
